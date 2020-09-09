@@ -1,0 +1,17 @@
+*{
+    background-color: white;
+    padding:0;
+    box-sizing: border-box;
+}
+
+h1{
+    color: coral;
+    width: 100%;
+    text-align: center;
+}
+
+a{
+    margin-left: 30px;
+    color: darkgreen;
+    text-decoration: none;
+}
